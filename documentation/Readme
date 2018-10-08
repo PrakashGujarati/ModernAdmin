@@ -1,0 +1,21 @@
+
+
+DataTable
+https://yajrabox.com/docs/laravel-datatables/master
+
+Jquery Validator
+https://www.sitepoint.com/basic-jquery-form-validation-tutorial/
+
+DateTimePicker
+https://xdsoft.net/jqplugins/datetimepicker/
+
+Laravel - Eloquent
+https://laraveldaily.com/eloquent-date-filtering-wheredate-and-other-methods/
+
+SeatChart
+https://github.com/mateuszmarkowski/jQuery-Seat-Charts
+
+
+php artisan serve
+php artisan migrate
+php artisan db:seed --class=DatabaseSeeder
